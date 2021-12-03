@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Disjoint Sets 并查集", "Disjoint Sets 并查集\Disjoint Sets 并查集.vcxproj", "{89C5699E-D3CC-4212-8CA7-9001B2106EB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89C5699E-D3CC-4212-8CA7-9001B2106EB6}.Debug|x64.ActiveCfg = Debug|x64
+		{89C5699E-D3CC-4212-8CA7-9001B2106EB6}.Debug|x64.Build.0 = Debug|x64
+		{89C5699E-D3CC-4212-8CA7-9001B2106EB6}.Debug|x86.ActiveCfg = Debug|Win32
+		{89C5699E-D3CC-4212-8CA7-9001B2106EB6}.Debug|x86.Build.0 = Debug|Win32
+		{89C5699E-D3CC-4212-8CA7-9001B2106EB6}.Release|x64.ActiveCfg = Release|x64
+		{89C5699E-D3CC-4212-8CA7-9001B2106EB6}.Release|x64.Build.0 = Release|x64
+		{89C5699E-D3CC-4212-8CA7-9001B2106EB6}.Release|x86.ActiveCfg = Release|Win32
+		{89C5699E-D3CC-4212-8CA7-9001B2106EB6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4141903-FFE8-44B8-B927-A62165596724}
+	EndGlobalSection
+EndGlobal
